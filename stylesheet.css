@@ -1,0 +1,57 @@
+body{
+	font-family: Helvetica;
+	background-color: #F3F9FA;
+}
+h1{
+	font-family: Garamond;
+	font-size:65px;
+	margin: 0;
+	margin-bottom: -15px;
+}
+a{
+	margin: 0px;
+	color:blue;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+h3{
+	font-size: 35px;
+	color: #012246;
+	margin-top: 20px;
+	margin-bottom: 0;
+}
+.a1 {
+	text-align: center;
+}
+section{
+	margin-left: 15%;
+	border-bottom: 1px solid #9A8600;
+	margin-right: 15%; 
+}
+section p{
+	font-size: 20px;
+	color: #9A8600;
+}
+ul{
+	margin: 10px;
+}
+#grade{
+	color: green;
+	text-decoration: underline;
+}
+.header{
+	border: 2px solid #9A8600;
+	border-radius: 4px;
+	padding: 1%;
+	width:70%;
+	margin: auto;
+}
+.date{
+	position: relative;
+	float: right;
+	padding-right: 20px;
+	font-size: 13px;
+	margin: auto;
+}
